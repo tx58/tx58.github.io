@@ -11,6 +11,10 @@ sass:
 
 theme: jekyll-theme-primer
 
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+  
 github:
   private: false
   license:
