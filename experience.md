@@ -28,9 +28,13 @@
 <!-- * * * -->
 
 ## Fellowship and Awards
-- Sage Fellowship, Fall 2018 and Spring 2019
-- Ernest Liu '64 Ta-Chung and Ya-Chao Liu Memorial Fellowship, Fall 2022
+- Caves Dissertation Fellowship, Fall 2023
 - C.V. Starr (East Asia) Fellowship, Spring 2022
+- Ernest Liu '64 Ta-Chung and Ya-Chao Liu Memorial Fellowship, Fall 2022
+- Sage Fellowship, Fall 2018 and Spring 2019
+
+
+
 
 [comment]: <> ## Professional Experience
 [comment]: <> **Sino Health**
