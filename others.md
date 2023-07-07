@@ -17,10 +17,11 @@
 * * *
 <details><summary markdown="span"> <strong>  <font size= "4"> Hidden gems in (mostly classical) music </font> </strong> </summary>
 
-> - Elgar: In the South
-- Price: Symphony No.3
-- Sicong Ma: Concerto for two violins
-- Chausson: Symphony in D minor
+> - [Price](https://en.wikipedia.org/wiki/Florence_Price): Symphony No.3
+- [Coleridge-Taylor](https://en.wikipedia.org/wiki/Samuel_Coleridge-Taylor): Violin concerto
+- [Sicong Ma](https://en.wikipedia.org/wiki/Ma_Sicong): Concerto for two violins
+- Elgar: In the South
+- [Chausson](https://en.wikipedia.org/wiki/Ernest_Chausson): Symphony in D minor
 - Martinu: Symphony No.1
 - Nielsen: Symphony No.5
 - Walton: Viola Concerto 
