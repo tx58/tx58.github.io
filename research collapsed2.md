@@ -20,22 +20,33 @@ residents’ home and work locations in Beijing, we recover structural estimates
 
 > In the market for medical goods and services, the intense involvement of the public sector creates a possible linkage between public-sector policies and private-sector outcomes. This study investigates the external effects of a centralized procurement auction policy on generic drugs in China, which creates a price shock (50% decrease on average) in the public sector. Leveraging the regional and timing variations, I find that the pharmacies' retail price response is much smaller (10%), indicating strong market friction. I build a structural model to quantity the welfare and provide evidence of consumer inertia and transportation costs as the main mechanisms that explain market friction. Firstly, patients that got diagnosed recently are more likely to switch, indicating strong inertia. Secondly, the price response is more significant for pharmacies closer to hospitals, consistent with high transportation costs.
 
-**Welfare Analysis of a User-Generated-Content Supporting Program on a Short-video Platform**
+
+
+<details><summary markdown="span"> <strong> Welfare Analysis of a User-Generated-Content Supporting Program on a Short-video Platform</strong> </summary>
 
 > A few top content creators usually capture most of the impressions on digital platforms, discouraging grassroots users from creating new content and may threaten the platform ecology. This is a prevalent dilemma: whether a platform should capitalize on popular and high-quality content to satisfy viewers or to promote a diverse array of content to encourage nascent content creators and achieve better performance in the long run. I analyze an internal experiment in a short-video platform to quantify the effects of a supporting program on novice content creators. The program leads to worse viewer experience in the short run, measured by a six percentage-point decrease in the completion rates, but leads to more content posting and higher content quality. Furthermore, a model suggests that improving content quality could counterbalance the adverse effects on viewer experience within three months.
 
 <!-- Therefore Platforms are incentivized to support nascent content creators, to discover potential stars, to promote a diverse array of content, achieve better performance in the long run.   -->
 
+</details>
 
-**Does the Green Plate Policy of Electric Vehicles Make People Go Green? (with [Hyuk-soo Kwon](https://sites.google.com/cornell.edu/hyuksookwon/home))**
+<br>
+
+
+<details><summary markdown="span"> <strong> Does the Green Plate Policy of Electric Vehicles Make People Go Green? (with [Hyuk-soo Kwon](https://sites.google.com/cornell.edu/hyuksookwon/home))</strong> </summary>
 
 > In the year 2016-2018, the Ministry of Public Security of China implemented a new policy to replace the electric vehicles’ (EV) plates with green ones, making EVs’ plates distinguishable from gasoline cars. We use the differences-in-differences method, leveraging the staggered implementation of the policy to identify the treatment effect.
 We find that this ”nudge” policy boosts the local sales of EVs by 24%, saving the government 2.5 billion RMB in cash subsidy. This effect is robust to province boundary design and heterogeneous across different EV brands and city demographics. We provide additional thoughts on the mechanism. 
 
-**Punish by Publicizing**
+</details>
+
+<br>
+
+<details><summary markdown="span"> <strong> Punish by Publicizing </strong> </summary>
 
 > This paper examines the effects of social pressure on an individual’s behavior. I investigate the policy of a library that publicizes names of borrowers who fail to return books on time to see how such “shame tactics” induce the more timely returns. First, I use a difference-in-differences method to identify the impact of social pressure using historical policy changes as a quasi-experiment. Then a randomized controlled trial (RCT) is conducted by sending emails with different contents to students. The results indicate that: (1) social pressure increases the on-time return rate by 5 percentage points, comparable to the effects of reminders, but weaker than a small fine (1 RMB a day); (2) the impact of social pressure is heterogeneous over different groups of individuals, and is especially strong for faculty, students with wider social connections, and individuals who would have very likely returned the books on time. In practice, this paper suggests an alternative policy tool that facilitates task completion.
 
+</details>
 
 
 <!-- 
