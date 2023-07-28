@@ -6,6 +6,7 @@
 - **University of Wisconsin-Madison**, Ph.D. in Economics, 2022-Now  
 - **Cornell University**, Ph.D. in Economics, transferred to UW-Madison with my committee chair, 2018-2022 
 - **Fudan University**, B.A. in Economics with distinction, 2014-2018 
+    - **University of Toronto**, Exchange student, 2016
 - **Hefei No.1 High School**, 2011-2014
 
 <!-- * * * -->
