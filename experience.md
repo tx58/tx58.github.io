@@ -36,7 +36,6 @@
 
 
 
-
 [comment]: <> ## Professional Experience
 [comment]: <> **Sino Health**
 [comment]: <> - Help build models and gain insights from pharmaceutical data.
