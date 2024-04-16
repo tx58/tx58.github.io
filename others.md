@@ -14,7 +14,7 @@
 
 <img src="/images/tianzhu.jpg" alt="tianzhu" width="300"/>
 
-* * *
+<!-- * * *
 <details><summary markdown="span"> <strong>  <font size= "4"> Hidden gems in (mostly classical) music </font> </strong> </summary>
 
 > - [Price](https://en.wikipedia.org/wiki/Florence_Price): Symphony No.3
@@ -35,12 +35,12 @@
 - Alkan: Concerto for solo piano
 - Scriabin: Piano Sonata No.5 (All his sonatas are remarkable)
 - Magnard: Piano Trio, Symphony No.4
-- Szymanowski: Violin Concerto No.1
+- Szymanowski: Violin Concerto No.1 and No.2
 - Janacek: String Quartet No.2
 
 </details>
 
-<br>
+<br> -->
 
 
 [comment]: <> Hidden gems:
