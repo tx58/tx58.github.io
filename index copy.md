@@ -9,4 +9,4 @@ Hi! I am a 5th year Ph.D. candidate in the Economics department at the Universit
 
 [comment]: <> (I will be on the job market in the 2023-24 and am available for interviews, including at the ASSA 2024 Annual Meeting on January 6-8, 2024.)
 
-My main advisor is [Panle Barwick](https://www.pbarwick.org/).
+[comment]: My main advisor is [Panle Barwick](https://www.pbarwick.org/).
