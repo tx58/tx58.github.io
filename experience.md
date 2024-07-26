@@ -2,8 +2,13 @@
 
 <!-- * * * -->
 
+## Academic Appointment
+- **University of Rochester, Simon Business School**, Assistant Professor of Marketing, 2024-Now
+
+<!-- * * * -->
+
 ## Education
-- **University of Wisconsin-Madison**, Ph.D. in Economics, 2022-Now  
+- **University of Wisconsin-Madison**, Ph.D. in Economics, 2022-2024  
 - **Cornell University**, Ph.D. in Economics, transferred to UW-Madison with my committee chair, 2018-2022 
 - **Fudan University**, B.A. in Economics with distinction, 2014-2018 
     - **University of Toronto**, Exchange student, 2016
@@ -11,19 +16,20 @@
 
 <!-- * * * -->
 
-## Research Experience
+<!-- ## Research Experience
 ### Research Assistant for Professor Panle Barwick
 - Cornell, Spring 2019
 - UW-Madison, Spring 2022 and Fall 2023
 
-<!-- * * * -->
+* * * -->
 
 ## Teaching Experience
-### Teaching Assistant
-- ECON6090: Microeconomics Theory (Ph.D. Level) (Cornell, Fall 2019 and Fall 2021)
-- ECON6110: Game Theory (Ph.D. Level) (Cornell, Spring 2020)
-- ECON4610: Industrial Organization I (Cornell, Spring 2021)
-- ECON4906: Industrial Organization and Competitive Strategy (Cornell, Spring 2019)
+- GBA 462: Core Stats for MS Using Python (Master) (Rochester, Fall 2024)
+- GBA 472: Causal and Predictive Analysis (Master) (Rochester, Fall 2024)
+- ECON6090: Microeconomics Theory (Ph.D.) (Cornell, Fall 2019 and Fall 2021)
+- ECON6110: Game Theory (Ph.D.) (Cornell, Spring 2020)
+- ECON4610: Industrial Organization I (Undegrad) (Cornell, Spring 2021)
+- ECON4906: Industrial Organization and Competitive Strategy (Undegrad) (Cornell, Spring 2019)
 - CICER Winter Research Program (Cornell, Winter 2020)
 
 <!-- * * * -->

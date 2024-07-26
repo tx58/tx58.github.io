@@ -1,13 +1,20 @@
 ## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli.pdf) | [Others](/others.html)
 
+<!-- ### Rochester, NY
+
+<img src="/images/DSC00110.jpg" alt="mendota" width="600"/>
+
+* * * -->
+In my free time, I enjoy playing badminton, photography, and listening to classical music.
+
 ### Madison, WI
 
-<img src="/images/lakeview.jpg" alt="mendota" width="600"/>
+<img src="/images/DSC00110.jpg" alt="mendota" width="600"/>
 
 * * *
 ### Ithaca, NY
 
-<img src="/images/libeslope.jpg" alt="libeslope" width="600"/>
+<img src="/images/DSC05644.jpg" alt="libeslope" width="600"/>
 
 * * *
 ### [Qianshan](https://en.wikipedia.org/wiki/Mount_Tianzhu), Anhui (my hometown!)
