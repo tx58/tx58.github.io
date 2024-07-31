@@ -1,11 +1,12 @@
 ## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli.pdf) | [Others](/others.html)
 
-<!-- ### Rochester, NY
-
-<img src="/images/DSC00110.jpg" alt="mendota" width="600"/>
-
-* * * -->
 In my free time, I enjoy playing badminton, photography, and listening to classical music.
+
+### Rochester, NY
+
+<img src="/images/DSC00940-HDR.jpg" alt="rushrhee" width="600"/>
+
+* * *
 
 ### Madison, WI
 

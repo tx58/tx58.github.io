@@ -35,9 +35,9 @@
 <!-- * * * -->
 
 ## Fellowship and Awards
-- Caves Dissertation Fellowship, Fall 2023
-- C.V. Starr (East Asia) Fellowship, Spring 2022
-- Ernest Liu '64 Ta-Chung and Ya-Chao Liu Memorial Fellowship, Fall 2022
+- [Caves](https://www.lrca.com/employees/doug-caves/) Dissertation Fellowship, Fall 2023
+- [C.V. Starr](https://en.wikipedia.org/wiki/Cornelius_Vander_Starr) (East Asia) Fellowship, Spring 2022
+- [Ernest Liu '64 Ta-Chung](https://en.wikipedia.org/wiki/Ta-Chung_Liu) and Ya-Chao Liu Memorial Fellowship, Fall 2022
 - Sage Fellowship, Fall 2018 and Spring 2019
 
 
