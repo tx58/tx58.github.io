@@ -8,7 +8,7 @@
 <!-- * * * -->
 
 ## Education
-- **University of Wisconsin-Madison**, Ph.D. in Economics, 2022-2024  
+- **[University of Wisconsin-Madison](https://econ.wisc.edu/wp-content/uploads/sites/89/2024/08/2023-24-PhD-Placements.pdf)**, Ph.D. in Economics, 2022-2024  
 - **Cornell University**, Ph.D. in Economics, transferred to UW-Madison with my committee chair, 2018-2022 
 - **Fudan University**, B.A. in Economics with distinction, 2014-2018 
     - **University of Toronto**, Exchange student, 2016
