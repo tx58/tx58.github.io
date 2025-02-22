@@ -10,24 +10,33 @@ residents’ home and work locations in Beijing, we recover structural estimates
 ## Working Papers
 <p style="margin:0px 0px"> [Welfare Effects of Resale Price Maintenance: Evidence from the Chinese Pharmaceutical Industry](https://www.dropbox.com/scl/fi/zrb932daqj9x459112vib/Xia_Tianli_QME.pdf?rlkey=xsqy8bsog2hqh5rs9p06gyz5x&st=est8hc6o&dl=0) (JMP) </p>
 <details><summary markdown="span"> Abstract </summary>
-> This paper studies how resale price maintenance (RPM), a vertical practice that allows upstream manufacturers to directly control downstream retail prices, affects welfare. This effect is ambiguous because RPM can increase consumer welfare by eliminating double markups, but decreasing it by facilitating price coordination across competing retailers. I offer direct empirical evidence of these effects by studying an anti-trust case about RPM using a novel store-level dataset in the retail pharmacy market. Difference-in-differences estimates suggest the net effect of RPM decreases retail prices and is pro-competitive in this setting. The results also suggest that RPM reduces retailer markups and suppresses price dispersion across retailers, consistent with the incentives to both eliminate the double markup and coordinate the retail price. Motivated by these findings, I build and estimate a structural model to disentangle these incentives and illustrate how they interact with the market fundamentals, such as consumer substitution patterns and manufacturer bargaining power. The model confirms that RPM is overall welfare-improving in this setting. However, the consumer surplus gain from RPM would have been 77% higher absent of price coordination incentives. In addition, I show that under different market conditions RPM can lead to anti-competitive outcomes. 
+> This paper studies how resale price maintenance (RPM), a vertical practice that allows upstream manufacturers to directly control downstream retail prices, affects welfare. This effect is theoretically ambiguous because RPM can increase consumer welfare by eliminating double markups, but decrease it by facilitating price coordination across competing retailers. I provide empirical evidence of these effects by examining a high-profile antitrust case involving a pharmaceutical firm that was found to practice RPM and ruled to stop. Difference-in-differences estimates using a novel retail pharmacy-level dataset suggest the net effect of RPM decreases retail prices and is pro-competitive in this setting. The results also suggest that RPM reduces retailer markups and suppresses price dispersion across retailers. These findings are consistent with manufacturers' incentives of using RPM to both eliminate the double markup and coordinate the retail price. I build and estimate a structural model to disentangle these incentives.
+The model confirms that RPM is overall welfare-improving in this setting. However, the consumer surplus gain from RPM would have been 77\% higher absent of price coordination incentives. In addition, I show that under different market conditions RPM can lead to anti-competitive outcomes. 
 </details>
 
+<p style="margin:10px;"></p>
+
+<p style="margin:0px 0px"> [Supporting Content Creators in Two-Sided Markets: Experimental Evidence from a Short Video Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118719) </p>
+<details><summary markdown="span"> Abstract </summary>
+> A few top content creators capture most of the impressions on digital platforms, discouraging grassroots users from creating new content, and thereby threatening the platform ecology. This concentration presents a dilemma to the platform: whether a platform should capitalize on established content creators' popular content in the short run or promote content creation from amateurs in the long run. To quantify this tradeoff, I study a two-sided experiment by a short-form video platform that exogenously increases the impressions of treated amateur-generated content to treated viewers. Although viewer usage time decreased in the short run, the program successfully fostered the production of higher-quality and more diverse content from amateur creators. Overall, incentivizing amateur content creation offered net benefits to platforms in three months.
+</details>
+
+<p style="margin:10px;"></p>
+<!-- Therefore Platforms are incentivized to support nascent content creators, to discover potential stars, to promote a diverse array of content, achieve better performance in the long run.   -->
 <!-- <p style="margin:10px;"></p> -->
 
+<!-- <strong> </strong> <details><summary markdown="span"> Abstract  </summary> </details>
+<br> -->
+<p style="margin:0px 0px">  A Double Dose of Reform: Insurance and Centralized Price Negotiation in China’s Market for Innovative Drugs (with [Panle Barwick](https://www.pbarwick.org/) and [Ashley Swanson](https://www.ashley-terese-swanson.com/)) </p>
+<details><summary markdown="span"> Abstract </summary>
+> Making expensive, innovative drugs affordable and accessible is a pressing global challenge. In this paper, we explore the welfare and equity effects of a recent policy reform in China that coupled centralized drug price negotiation with expanded insurance coverage. The reform offered insurance coverage for innovative drugs, contingent on mutually-agreeable price reductions negotiated between the government and drug producers. Successful negotiations were followed by 48% decreases in retail prices, 80\% reductions in out-of-pocket prices, and 350\% increases in utilization. Focusing on cancer drugs, we estimate a flexible demand and supply model that features heterogeneous households, bargaining with potential breakdowns, and a government objective function that depends on consumer surplus and insurance expenditure. Our analyses deliver several findings. First, insurance coverage combined with central negotiation incentivizes drug producers to reduce drug prices, which increases consumer surplus gains by 77% relative to scenarios where drugs are covered without negotiation. Second, centralized bargaining is far more beneficial to patients in low- to moderate-income provinces compared to decentralized negotiation. Third, paradoxically, a regressive schedule with lower co-insurance rates for high-income households increases drug access for all consumers through increased bargaining leverage.
+</details>
+
+<p style="margin:10px;"></p>
 
 ## Works in Progress 
 (Click on the title to view abstracts.)
 
-<!-- <strong> </strong> <details><summary markdown="span"> Abstract  </summary> </details>
-<br> -->
-<details><summary markdown="span">  A Double Dose of Reform: Insurance and Centralized Price Negotiation in China’s Market for Innovative Drugs (with [Panle Barwick](https://www.pbarwick.org/) and [Ashley Swanson](https://www.ashley-terese-swanson.com/)) </summary>
-
-> Making expensive, innovative drugs affordable and accessible is a pressing global challenge. In this paper, we explore the welfare and equity effects of a recent policy reform in China that coupled centralized drug price negotiation with expanded insurance coverage. Before the reform, innovative drugs were mostly excluded from coverage, leading to high out-of-pocket expenses for consumers. The reform offered insurance coverage for these drugs, together with price reductions negotiated between the government and drug producers. Our design-based analysis shows that successful negotiations were followed by 48% decreases in retail prices and 350% increases in utilization. The reform also coincided with increased entry of innovative drugs into the Chinese market. We build a flexible model of demand and supply for cancer drugs to understand the mechanisms driving these results. Our model estimates and counterfactual simulations yield three key insights. First, there's a notable synergy between insurance expansion and price negotiation. Insurance coverage incentivizes drug producers to engage in negotiations, which reduces costs and increases consumer surplus gains by 77% relative to scenarios where drugs are covered without negotiation. Second, the current coinsurance design tends to favor residents in wealthier provinces, thus benefiting higher-income consumers more. We present the results of alternative coinsurance models with equity targets. Lastly, we consider the impact of decentralized, province-level negotiations on the effectiveness of this policy.
-
-</details>
-
-<p style="margin:10px;"></p>
 
 
 <details><summary markdown="span">  External Effects of Procurement Auctions: Evidence from Chinese Centralized Procurement for Drugs </summary>
@@ -38,15 +47,6 @@ residents’ home and work locations in Beijing, we recover structural estimates
 
 <p style="margin:10px;"></p>
 
-<details><summary markdown="span">  Supporting Content Creators in Two-Sided Markets: Experimental Evidence from a Short Video Platform </summary>
-
-> A few top content creators usually capture most of the impressions on digital platforms, discouraging grassroots users from creating new content and threatening the platform ecology. This is a prevalent dilemma: whether a platform should capitalize on established creators' popular content or promote a diverse array of novice creators' content. To quantify this tradeoff, I study a unique two-sided experiment by a short-form video platform that boosted amateur-generated content. While detrimental to viewer experience in the short run, measured by a 2% decrease in the viewer usage time, the program ultimately led to increased content posting, quality, and diversity. Furthermore, the results suggest that improving content quality could counterbalance the adverse effects on viewer experience within three months, suggesting the importance of considering long-term content creator response in evaluating platform strategy.
-
-</details>
-
-<p style="margin:10px;"></p>
-<!-- Therefore Platforms are incentivized to support nascent content creators, to discover potential stars, to promote a diverse array of content, achieve better performance in the long run.   -->
-
 <details><summary markdown="span">  Does the Green Plate Policy Increase Electric Vehicle Adoptions? (with [Hyuk-soo Kwon](https://sites.google.com/cornell.edu/hyuksookwon/home)) </summary>
 
 > In the year 2016-2018, the Ministry of Public Security of China implemented a new policy to replace the electric vehicles’ (EV) plates with green ones, making EVs’ plates distinguishable from gasoline cars. We use the differences-in-differences method, leveraging the staggered implementation of the policy to identify the treatment effect.
@@ -56,7 +56,7 @@ We find that this ”nudge” policy boosts the local sales of EVs by 24%, savin
 
 <p style="margin:10px;"></p>
 
-<details><summary markdown="span">  Punish by Publicizing </summary>
+<details><summary markdown="span">  Punish by Publicizing (My undergrad senior thesis) </summary>
 
 > This paper examines the effects of social pressure on an individual’s behavior. I investigate the policy of a library that publicizes names of borrowers who fail to return books on time to see how such “shame tactics” induce the more timely returns. First, I use a difference-in-differences method to identify the impact of social pressure using historical policy changes as a quasi-experiment. Then a randomized controlled trial (RCT) is conducted by sending emails with different contents to students. The results indicate that: (1) social pressure increases the on-time return rate by 5 percentage points, comparable to the effects of reminders, but weaker than a small fine (1 RMB a day); (2) the impact of social pressure is heterogeneous over different groups of individuals, and is especially strong for faculty, students with wider social connections, and individuals who would have very likely returned the books on time. In practice, this paper suggests an alternative policy tool that facilitates task completion.
 
