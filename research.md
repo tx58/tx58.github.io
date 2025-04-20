@@ -16,7 +16,7 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
-<p style="margin:0px 0px"> [Supporting Content Creators in Two-Sided Markets: Experimental Evidence from a Short Video Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118719) </p>
+<p style="margin:0px 0px"> [Supporting Content Creators in Two-Sided Markets: Experimental Evidence from a Short Video Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118719) <span style="color:DarkRed"> Revise and resubmit, Management Science </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > A few top content creators capture most of the impressions on digital platforms, discouraging grassroots users from creating new content, and thereby threatening the platform ecology. This concentration presents a dilemma to the platform: whether a platform should capitalize on established content creators' popular content in the short run or promote content creation from amateurs in the long run. To quantify this tradeoff, I study a two-sided experiment by a short-form video platform that exogenously increases the impressions of treated amateur-generated content to treated viewers. Although viewer usage time decreased in the short run, the program successfully fostered the production of higher-quality and more diverse content from amateur creators. Overall, incentivizing amateur content creation offered net benefits to platforms in three months.
 </details>
