@@ -5,7 +5,7 @@
 
 * * *
 
-Welcome to my website! I am an Assistant Professor of Marketing at the Univeristy of Rochester (Simon Business School). My primary field of interest is quantitative marketing and empirical industrial organization. I am also interested in health economics and behavioral economics. My research applies structural models to topics such as vertical contracts, barganing, sorting, and spillover effects across policy settings, including pharmaceuticals, transportation, electric vehicles, and digital platforms.
+Welcome to my website! I am an Assistant Professor of Marketing at the University of Rochester (Simon Business School). My primary field of interest is quantitative marketing and empirical industrial organization. I am also interested in health economics and behavioral economics. My research applies structural models to topics such as vertical contracts, barganing, sorting, and spillover effects across policy settings, including pharmaceuticals, transportation, electric vehicles, and digital platforms.
 
 I completed my Ph.D. in Economics from the University of Wisconsin at Madison.
 
