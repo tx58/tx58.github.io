@@ -8,8 +8,7 @@ residents’ home and work locations in Beijing, we recover structural estimates
 </details>
 
 ## Working Papers
-<p style="margin:0px 0px"> [Welfare Effects of Resale Price Maintenance: Evidence from the Chinese Pharmaceutical Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118723) (JMP) 
-<span style="color:DarkRed"> Revise and resubmit at Journal of Political Economy </span>  </p>
+<p style="margin:0px 0px"> [Welfare Effects of Resale Price Maintenance: Evidence from the Chinese Pharmaceutical Industry](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118723) (JMP) <span style="color:DarkRed"> Revise and resubmit at Journal of Political Economy </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > This paper studies how resale price maintenance (RPM), a vertical practice that allows upstream manufacturers to directly control downstream retail prices, affects welfare. This effect is theoretically ambiguous because RPM can increase consumer welfare by eliminating double markups, but decrease it by facilitating price coordination across competing retailers. I provide empirical evidence of these effects by examining a high-profile antitrust case involving a pharmaceutical firm that was found to practice RPM and ruled to stop. Difference-in-differences estimates using a novel retail pharmacy-level dataset suggest the net effect of RPM decreases retail prices and is pro-competitive in this setting. The results also suggest that RPM reduces retailer markups and suppresses price dispersion across retailers. These findings are consistent with manufacturers' incentives of using RPM to both eliminate the double markup and coordinate the retail price. I build and estimate a structural model to disentangle these incentives.
 The model confirms that RPM is overall welfare-improving in this setting. However, the consumer surplus gain from RPM would have been 77% higher absent of price coordination incentives. In addition, I show that under different market conditions RPM can lead to anti-competitive outcomes. 
@@ -17,20 +16,14 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
-<p style="margin:0px 0px"> [Supporting Content Creators on Two-Sided Markets: Experimental Evidence from a Short-Form Video Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118719) 
-<span style="color:DarkRed"> Revise and resubmit at Management Science </span>  </p>
+<p style="margin:0px 0px"> [Supporting Content Creators on Two-Sided Markets: Experimental Evidence from a Short-Form Video Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5118719) <span style="color:DarkRed"> Revise and resubmit at Management Science </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > A few top content creators capture most of the impressions on digital platforms, discouraging grassroots users from creating new content, and thereby threatening the platform ecology. This concentration presents a dilemma to the platform: whether a platform should capitalize on established content creators' popular content in the short run or promote content creation from amateurs in the long run. To quantify this tradeoff, I study a two-sided experiment by a short-form video platform that exogenously increases the impressions of treated amateur-generated content to treated viewers. Although viewer usage time decreased in the short run, the program successfully fostered the production of higher-quality and more diverse content from amateur creators. Overall, incentivizing amateur content creation offered net benefits to platforms in three months.
 </details>
 
 <p style="margin:10px;"></p>
-<!-- Therefore Platforms are incentivized to support nascent content creators, to discover potential stars, to promote a diverse array of content, achieve better performance in the long run.   -->
-<!-- <p style="margin:10px;"></p> -->
 
-<!-- <strong> </strong> <details><summary markdown="span"> Abstract  </summary> </details>
-<br> -->
-<p style="margin:0px 0px">  [A Double Dose of Reform: Insurance and Centralized Negotiation in Drug Markets](/papers/NRDL_BSX.pdf) (with [Panle Barwick](https://panlebarwick.github.io/) and [Ashley Swanson](https://www.ashley-terese-swanson.com/)) </p> 
-<span style="color:DarkRed"> Revise and resubmit at American Economic Review </span>  </p>
+<p style="margin:0px 0px">  [A Double Dose of Reform: Insurance and Centralized Negotiation in Drug Markets](/papers/NRDL_BSX.pdf) (with [Panle Barwick](https://panlebarwick.github.io/) and [Ashley Swanson](https://www.ashley-terese-swanson.com/)) </p> <span style="color:DarkRed"> Revise and resubmit at American Economic Review </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > Making innovative drugs affordable and accessible is a pressing global challenge. Centralized negotiation is an increasingly popular policy solution, but it remains understudied despite wide variation in implementation. This paper studies China's ongoing NRDL Reform, which combines centralized drug price negotiation with expanded insurance coverage. The reform reduced retail prices by 48% and out-of-pocket costs by 80%, and increased drug utilization by 350%. At the same time, the insurance design was regressive, and 25% of negotiations failed. Focusing on cancer drugs, we estimate a flexible demand and supply model that features heterogeneous households, bargaining with potential breakdowns, and a government objective function that depends on consumer surplus and insurance spending. We estimate that including innovative cancer drugs in the NRDL generated RMB 40 billion (\$5.6 billion) in annual consumer surplus gains and increased survival by 900,000 life-years among Chinese cancer patients each year. Among the counterfactual policies we examined, centralized market-access negotiation with an optimal coinsurance schedule raises social surplus by 19% relative to the observed policy and achieves 90% of the social surplus of an efficient benchmark. 
 </details>
