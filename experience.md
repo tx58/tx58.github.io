@@ -24,6 +24,7 @@
 * * * -->
 
 ## Teaching Experience
+- AEC 520: Causal Inference (Ph.D.) (Rochester, Fall 2025)
 - GBA 462: Core Stats for MS Using Python (Master) (Rochester, Fall 2024)
 - GBA 472: Causal and Predictive Analysis (Master) (Rochester, Fall 2024)
 - ECON6090: Microeconomics Theory (Ph.D.) (Cornell, Fall 2019 and Fall 2021)
