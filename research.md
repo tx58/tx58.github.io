@@ -37,6 +37,15 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
+<p style="margin:0px 0px"> 
+From Free Rider to Innovator: The Rise of China’s Drug Development. (with [Panle Barwick](https://panlebarwick.github.io/) and [Hongyuan Xia](https://hongyuan-xia.github.io/)) </p>
+<details><summary markdown="span"> Abstract </summary>
+> This paper examines the transition of developing economies from pharmaceutical ``free riders'' to innovators, using China’s recent ascent as a case study. Since 2020, China has surpassed the US in its annual volume of registered clinical trials. By linking global clinical trial registries with granular drug sales data and scholarly publication data, we provide evidence that this shift was primarily driven by the National Reimbursement Drug List (NRDL) reform. This policy shock increased the effective market size for innovative drugs by combining price negotiations with massive insurance expansion. We document a sharp rise in both the quantity (94% increase post-reform) and novelty of drug trials, with growth concentrated in reform-exposed disease categories, in novel drug development, and among domestic firms. A decomposition exercise shows that the NRDL reform accounts for 40\% of the growth in trial activity in the Oncology sector. Our results suggest that strategic public purchasing can simultaneously improve patient access and provide robust incentives for indigenous innovation.
+</details>
+
+<p style="margin:10px;"></p>
+
+
 
 ## Works in Progress 
 (Click on the title to view abstracts.)
