@@ -1,4 +1,4 @@
-## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli.pdf) | [Others](/others.html)
+## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli25.pdf) | [Others](/others.html)
 
 ## Publications
 <p style="margin:0px 0px">[Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting](/papers/Sorting_Beijing_BLWWX.pdf) (with [Panle Barwick](https://panlebarwick.github.io/), [Shanjun Li](https://shanjunli6.github.io/index.html/), [Andrew Waxman](https://andrewrwaxman.com/), and [Jing Wu](https://sites.google.com/view/jing-wu-tsinghua-university)) <span style="color:DarkRed"> American Economic Review, 114 (10): 3161–3205. </span>  </p>

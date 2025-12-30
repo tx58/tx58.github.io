@@ -1,4 +1,4 @@
-## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli.pdf) | [Others](/others.html)
+## [Main](https://tx58.github.io/) | [Research](/research.html) | [Experience](/experience.html) | [CV](/cv/cv_tianli25.pdf) | [Others](/others.html)
 
 
 <img src="/images/tianli-xia3.jpg" alt="drawing" width="300"/>
