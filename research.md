@@ -37,19 +37,24 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
+<p style="margin:0px 0px"> From Pumps to Plugs: Value of Time and Charging Policies. (with [Takeaki Sunada](https://www.takeakisunada.com/)) </p>
+<details><summary markdown="span"> Abstract </summary>
+> Designing an electric vehicle (EV) charging infrastructure requires understanding how drivers value charging speed, price, and convenience. We provide the first field-based estimates of drivers' value of time (VOT) in a fast-charging environment, using rich, high-frequency vehicle usage data from Shanghai in 2024. We estimate a random-coefficient discrete-choice model of drivers' charging decisions among the city's commercial chargers. The estimated mean value of time is ￥6.5 per hour (27\% of the average wage), implying lifetime charging time costs of about 1.7\% of the vehicle price in 2024. Counterfactual analyses show that the city's high-speed charging infrastructure provision since 2020 has reduced the lifetime time cost by 3.9\% of vehicle price and accounts for up to 4.6\% of new adoptions. We document the relative efficiency of investing on stations and vehicles, as well as possible dynamic inefficiency in the diffusion process. We also show the importance of coordinating investments between station density and speed to achieve an efficient charging infrastructure.
+</details>
+
+<p style="margin:10px;"></p>
+
 <p style="margin:0px 0px"> 
 From Free Rider to Innovator: The Rise of China’s Drug Development. (with [Panle Barwick](https://panlebarwick.github.io/) and [Hongyuan Xia](https://hongyuan-xia.github.io/)) </p>
 <details><summary markdown="span"> Abstract </summary>
-> This paper examines the transition of developing economies from pharmaceutical ``free riders'' to innovators, using China’s recent ascent as a case study. Since 2020, China has surpassed the US in its annual volume of registered clinical trials. By linking global clinical trial registries with granular drug sales data and scholarly publication data, we provide evidence that this shift was primarily driven by the National Reimbursement Drug List (NRDL) reform. This policy shock increased the effective market size for innovative drugs by combining price negotiations with massive insurance expansion. We document a sharp rise in both the quantity (94% increase post-reform) and novelty of drug trials, with growth concentrated in reform-exposed disease categories, in novel drug development, and among domestic firms. A decomposition exercise shows that the NRDL reform accounts for 40\% of the growth in trial activity in the Oncology sector. Our results suggest that strategic public purchasing can simultaneously improve patient access and provide robust incentives for indigenous innovation.
+> Can a developing country escape the pharmaceutical ``free-rider trap''? We study China's rapid transition from a producer of generic drugs to a major source of frontier pharmaceutical innovation. Compiling a harmonized database of clinical trials, scientific publications, drug sales, and policy reforms, we document a structural break beginning in 2016: China's clinical trial volume surged by 86.1\% relative to the U.S., with comparable gains in {trial novelty}, concentrated among domestic firms. We examine a comprehensive list of potential demand- and supply-side drivers, including the National Reimbursement Drug List (NRDL) reform, knowledge accumulation, talent flows, regulatory streamlining, Made in China 2025, international harmonization, and other state-led initiatives. China's rise in drug development was primarily driven by NRDL, where reimbursed disease categories experienced significantly greater trial growth, but never-covered categories exhibited no change. A decomposition exercise attributes 43\% of the trial surge in Oncology to NRDL, versus 24\% for knowledge accumulation and talent flows, with other factors playing a modest role. Back-of-the-envelope welfare calculations suggest that the dynamic gains from induced innovation are three times the static gains from expanded patient access. Our findings demonstrate that well-designed demand-side policy can simultaneously improve affordability and stimulate frontier R\&D, offering a pathway for developing nations to contribute to global pharmaceutical innovation.
 </details>
 
 <p style="margin:10px;"></p>
 
 
-
 ## Works in Progress 
 (Click on the title to view abstracts.)
-
 
 
 <details><summary markdown="span">  External Effects of Procurement Auctions: Evidence from Chinese Centralized Procurement for Drugs </summary>
