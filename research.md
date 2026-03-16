@@ -56,7 +56,6 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 Green Plate Policy and Electric Vehicle Adoption (with [Jinyang Zheng](https://simon.rochester.edu/faculty/jinyang-zheng)). </p>
 <details><summary markdown="span"> Abstract </summary>
 > Innovation such as electric vehicles is central to decarbonization and sustainability, but encouraging early adoption is costly. This study examines China's green plate policy, rolled out between 2016 and 2018, which uses green license plates to visually distinguish electric vehicles from gasoline vehicles. Applying difference-in-differences and synthetic control methods, we estimate substantial increases in EV adoption in treated cities. Aggregating these effects, our counterfactual analysis indicates that green plates increased realized EV sales by at least 6.3% (48,000 vehicles) between late 2016 and 2018, an effect equivalent to 4.7 billion RMB in purchase subsidies. Heterogeneity analyses show stronger effects for EVs from traditional automakers and for premium models, and the policy also led to a marked rise in Baidu search intensity for ''EV,'' consistent with informational salience and image signaling as key drivers of increasing adoption. These findings offer new insights into how symbolic, low-cost marketing levers and behavioral nudges can accelerate the diffusion of emerging technologies, offering a scalable alternative to monetary incentives.
-
 </details>
 
 <p style="margin:10px;"></p>
