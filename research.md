@@ -45,9 +45,18 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 <p style="margin:10px;"></p>
 
 <p style="margin:0px 0px"> 
-From Free Rider to Innovator: The Rise of China’s Drug Development. (with [Panle Barwick](https://panlebarwick.github.io/) and [Hongyuan Xia](https://hongyuan-xia.github.io/)) </p>
+[From Free Rider to Innovator: The Rise of China’s Drug Development](https://cepr.org/publications/dp21286) (with [Panle Barwick](https://panlebarwick.github.io/) and [Hongyuan Xia](https://hongyuan-xia.github.io/)). </p>
 <details><summary markdown="span"> Abstract </summary>
-> We study China's rapid transition from a producer of generic drugs to a major source of frontier pharmaceutical innovation. Compiling a harmonized database of clinical trials, scientific publications, drug sales, and policy reforms, we document a structural break beginning in 2016: China's clinical trial volume surged by 86.1\% relative to the U.S., with comparable gains in {trial novelty}, concentrated among domestic firms. We examine a comprehensive list of potential demand- and supply-side drivers, including the National Reimbursement Drug List (NRDL) reform, knowledge accumulation, talent flows, regulatory streamlining, Made in China 2025, international harmonization, and other state-led initiatives. China's rise in drug development was primarily driven by NRDL, where reimbursed disease categories experienced significantly greater trial growth, but never-covered categories exhibited no change. A decomposition exercise attributes 43\% of the trial surge in Oncology to NRDL, versus 24\% for knowledge accumulation and talent flows, with other factors playing a modest role. Back-of-the-envelope welfare calculations suggest that the dynamic gains from induced innovation are three times the static gains from expanded patient access. Our findings demonstrate that well-designed demand-side policy can simultaneously improve affordability and stimulate frontier R\&D, offering a pathway for developing nations to contribute to global pharmaceutical innovation.
+> This paper examines China's transition from pharmaceutical ''free rider'' to global innovator over the last decade. In 2010, China accounted for less than 8% of global clinical trials; by 2020, it had surpassed the US in annual registered clinical trial volume. To study this transformation, we compile a comprehensive, synchronized database spanning the pharmaceutical drug development supply chain, covering scientific publications, clinical trials, drug development milestones for China, the U.S., and Europe, alongside drug sales and government policies over the same period. We provide strong evidence that China's rise was primarily driven by the National Reimbursement Drug List (NRDL) reform, which dramatically expanded the effective market size for innovative drugs. We document a sharp rise in both the quantity (86% increase) and novelty of drug trials post reform, with growth concentrated in reform-exposed disease categories, first- or best-in-class drugs, and among domestic firms. A decomposition exercise reveals that the NRDL reform accounts for 43% of the growth in oncology trial activity, nearly doubling the combined contribution of upstream knowledge accumulation and talent flows (24%), while other government policies play a minor role. Finally, dynamic gains from induced innovation exceed the reform's static gains in consumer access to innovative drugs by threefold, underscoring the importance of accounting for the reform's long-run effects on innovation incentives in addition to near-term improvements in drug affordability.
+</details>
+
+<p style="margin:10px;"></p>
+
+<details><summary markdown="span"> Seeing Innovation:
+Green Plate Policy and Electric Vehicle Adoption (with [Jinyang Zheng](https://simon.rochester.edu/faculty/jinyang-zheng)). </summary>
+
+> Innovation such as electric vehicles is central to decarbonization and sustainability, but encouraging early adoption is costly. This study examines China's green plate policy, rolled out between 2016 and 2018, which uses green license plates to visually distinguish electric vehicles from gasoline vehicles. Applying difference-in-differences and synthetic control methods, we estimate substantial increases in EV adoption in treated cities. Aggregating these effects, our counterfactual analysis indicates that green plates increased realized EV sales by at least 6.3% (48,000 vehicles) between late 2016 and 2018, an effect equivalent to 4.7 billion RMB in purchase subsidies. Heterogeneity analyses show stronger effects for EVs from traditional automakers and for premium models, and the policy also led to a marked rise in Baidu search intensity for ''EV,'' consistent with informational salience and image signaling as key drivers of increasing adoption. These findings offer new insights into how symbolic, low-cost marketing levers and behavioral nudges can accelerate the diffusion of emerging technologies, offering a scalable alternative to monetary incentives.
+
 </details>
 
 <p style="margin:10px;"></p>
@@ -65,14 +74,6 @@ From Free Rider to Innovator: The Rise of China’s Drug Development. (with [Pan
 
 <p style="margin:10px;"></p>
 
-<details><summary markdown="span">  Does the Green Plate Policy Increase Electric Vehicle Adoptions? (with [Hyuk-soo Kwon](https://sites.google.com/cornell.edu/hyuksookwon/home)) </summary>
-
-> In the year 2016-2018, the Ministry of Public Security of China implemented a new policy to replace the electric vehicles’ (EV) plates with green ones, making EVs’ plates distinguishable from gasoline cars. We use the differences-in-differences method, leveraging the staggered implementation of the policy to identify the treatment effect.
-We find that this ”nudge” policy boosts the local sales of EVs by 24%, saving the government 2.5 billion RMB in cash subsidy. This effect is robust to province boundary design and heterogeneous across different EV brands and city demographics. We provide additional thoughts on the mechanism. 
-
-</details>
-
-<p style="margin:10px;"></p>
 
 <details><summary markdown="span">  Punish by Publicizing (My undergrad senior thesis) </summary>
 
