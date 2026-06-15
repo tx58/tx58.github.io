@@ -37,7 +37,7 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
-<p style="margin:0px 0px"> [From Pumps to Plugs: Value of Time and Charging Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6296418) (with [Takeaki Sunada](https://www.takeakisunada.com/)). </p> <span style="color:DarkRed"> Revise and resubmit at American Economic Journal: Microeconomics </span>  </p>
+<p style="margin:0px 0px"> [From Pumps to Plugs: Value of Time and Charging Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6296418) (with [Takeaki Sunada](https://www.takeakisunada.com/)). </p> <span style="color:DarkRed"> Revise and resubmit at American Economic Journal: Microeconomics. </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > Designing EV charging policies requires understanding how drivers trade off charging speed, price, and convenience. Using high-frequency vehicle telemetry data from Shanghai, we estimate a random-coefficient discrete-choice model of charging demand and provide field-based estimates of drivers’ value of time (VOT) in charging. The mean VOT is 27% of the average wage, implying lifetime charging time costs of 1.7% of the vehicle price. Counterfactuals show that Level-III charging speed reduces driver time costs by 70% and explains 4.6% of new vehicle adoptions. We evaluate how improving vehicle charging speed, station power, and station density affect driver welfare.
 </details>
