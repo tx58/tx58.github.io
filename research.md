@@ -37,7 +37,7 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
-<p style="margin:0px 0px"> [From Pumps to Plugs: Value of Time and Charging Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6296418) (with [Takeaki Sunada](https://www.takeakisunada.com/)). </p>
+<p style="margin:0px 0px"> [From Pumps to Plugs: Value of Time and Charging Policies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6296418) (with [Takeaki Sunada](https://www.takeakisunada.com/)). </p> <span style="color:DarkRed"> Revise and resubmit at American Economic Journal: Microeconomics </span>  </p>
 <details><summary markdown="span"> Abstract </summary>
 > Designing EV charging policies requires understanding how drivers trade off charging speed, price, and convenience. Using high-frequency vehicle telemetry data from Shanghai, we estimate a random-coefficient discrete-choice model of charging demand and provide field-based estimates of drivers’ value of time (VOT) in charging. The mean VOT is 27% of the average wage, implying lifetime charging time costs of 1.7% of the vehicle price. Counterfactuals show that Level-III charging speed reduces driver time costs by 70% and explains 4.6% of new vehicle adoptions. We evaluate how improving vehicle charging speed, station power, and station density affect driver welfare.
 </details>
@@ -61,7 +61,7 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 <p style="margin:10px;"></p>
 
 <p style="margin:0px 0px">
-[The Cost of Cost Savings: Procurement Auctions and Moral Hazard in Drug Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6412158) (with [Liyu Zhao](https://simon.rochester.edu/stories/liyu-zhao)). </p>
+[The Cost of Cost Savings: Procurement Auctions and Moral Hazard in Drug Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6412158) (with [Liyu Zhao](https://liyuzhao.com/)). </p>
 <details><summary markdown="span"> Abstract </summary>
 > Procurement contracts are central to big buyers like governments and major corporations, but their design can generate a moral hazard problem: winning firms with ex-ante secured quantity have incentives to cut costs by reducing quality ex-post. We examine this issue in an important healthcare setting: China's volume-based procurement (VBP) of generic drugs. Using regulatory filings and novel measures of patient retention and switching, we show that procured drugs face more supplier changes and lower patient retention, with patients more likely to switch to branded alternatives, consistent with quality reduction driven by moral hazard. To assess welfare implications, we estimate a structural demand model with unobserved heterogeneity and state dependence in drug choice. Our results indicate that procurement achieves ￥3.85 billion ($550 million) cost savings for statin drugs annually, while the decline of drug quality offsets 15.8% of cost savings. Together, these findings provide empirical evidence of supplier moral hazard in the healthcare procurement setting and underscore the importance of contract design to regulate quality.
 </details>
