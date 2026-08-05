@@ -68,6 +68,14 @@ The model confirms that RPM is overall welfare-improving in this setting. Howeve
 
 <p style="margin:10px;"></p>
 
+<p style="margin:0px 0px">
+The No Surprises Act’s Surprises: Arbitration, Network Exit, and Insurer Pricing, (with [Panle Barwick](https://liyuzhao.com/), [Anran Li](https://sites.google.com/view/anranli/home), and [Shizhe Yu](https://shizhe-yu.github.io/)). </p>
+<details><summary markdown="span"> Abstract </summary>
+> The No Surprises Act (NSA) capped patients' liability for surprise bills and established federal final-offer arbitration for insurer–provider payment disputes. Linking arbitration records to the national longitudinal provider-insurer network panel and plan design data in ACA marketplace, we show that this arbitration mechanism has become an economically meaningful outside option to network contracting, with consequences that extend well beyond individual payment disputes. Arbitration grows into a large, provider-favorable payment channel; network participation falls in the most NSA-exposed specialties, including among providers that never arbitrate; provider groups exit networks following favorable arbitration outcomes; and more-exposed insurers raise premiums. These results reveal an unintended consequence of the NSA: dispute resolution designed to protect consumers could lead to indirect costs through narrower networks and higher premiums when arbitration predominantly favors providers.
+</details>
+
+<p style="margin:10px;"></p>
+
 
 ## Works in Progress 
 (Click on the title to view abstracts.)
